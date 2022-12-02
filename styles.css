@@ -1,0 +1,54 @@
+.nav {
+    list-style: none;
+
+    border-style: dotted;
+   
+    padding-left: 0;
+
+    width: 50%;
+
+    margin:auto;
+
+    text-align: center;
+
+    
+}
+
+.nav>li {
+    border-style: ridge;
+
+    display: inline-block;
+}
+
+p {
+    font-size: xx-large; text-align: center;
+}
+
+h1 {
+    font-size: 450%; text-align: center;
+}
+
+img {
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+
+body {
+    background-color: lightgray;
+}
+
+
+dl {
+    text-align: center;
+}
+
+dt {
+    font-size: 24pt;
+}
+
+dd {
+    margin: auto;
+}
+
